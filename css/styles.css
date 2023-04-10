@@ -212,8 +212,7 @@ body {
   padding-bottom: 120px;
 }
 .second-sect-title {
-  width: 324px;
-  margin: 0 auto 72px auto;
+  margin-bottom: 72px;
 }
 .second-sect-list {
   display: flex;
@@ -242,9 +241,6 @@ body {
 }
 
 .third-sect-title {
-  width: 163px;
-  margin-left: auto;
-  margin-right: auto;
   margin-bottom: 72px;
 }
 .third-sect-list {
@@ -277,7 +273,6 @@ body {
 .foot-logo {
   display: inline-block;
   margin-bottom: 16px;
-  width: 115px;
   padding: 0;
 }
 .footer-logo {
